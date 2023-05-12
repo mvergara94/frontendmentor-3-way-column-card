@@ -1,5 +1,4 @@
-# Frontend Mentor - Huddle landing page
-
+# Frontend Mentor - 3 column card componnent
 This is a solution to the [3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub).
 
 ## Table of contents
